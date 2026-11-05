@@ -2,7 +2,7 @@
 
 - 🎓 Cursando **Ciências da Computação**
 - 💻 Atualmente desenvolvendo aplicações em **Java**, **Spring Boot** e **MySQL**
-- 📚 Estudando Estruturas de Dados, algoritimos e Sistemas Distribuídos.
+- 📚 Estudando Estruturas de Dados, algoritmos e Sistemas Distribuídos.
 - 🎯 Focado em aprimorar minhas habilidades em desenvolvimento backend em Java.
 
 ---
@@ -21,13 +21,13 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
 
 ### 📬 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnie-moreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnie-moreira-27821a1b5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronniemendes57@gmail.com)
