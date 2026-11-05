@@ -155,16 +155,13 @@ $ _
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ronnie-moreira&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=00F0FF&count_private=true&hide_border=false" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnie-moreira&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=7B2CFF&langs_count=8" alt="Top Languages"/>
 
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=ronnie-moreira&theme=tokyonight&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=00F0FF" alt="GitHub Streak"/>
+
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronnie-moreira&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=7B2CFF&hide_border=true&radius=12&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Activity Graph"/>
 
 </div>
 
