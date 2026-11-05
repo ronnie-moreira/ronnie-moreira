@@ -114,10 +114,10 @@ $ cat profile.json
 <div align="center">
 
 <a href="https://github.com/ronnie-moreira/LocadoraWeb">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=LocadoraWeb-1&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=00F0FF&show_owner=false" alt="Projeto 1"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=LocadoraWeb-1&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=00F0FF&show_owner=false" alt="Locadora"/>
 </a>
 <a href="https://github.com/ronnie-moreira/BarbeariaWeb">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=BarbeariaWeb-2&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=7B2CFF&show_owner=false" alt="Projeto 2"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=BarbeariaWeb-2&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=7B2CFF&show_owner=false" alt="Barbearia"/>
 </a>
 
 
