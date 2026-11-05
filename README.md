@@ -31,7 +31,7 @@
 ### 📈 Minha Ofensiva no GitHub
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronniemendes57&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnie-moreira&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
