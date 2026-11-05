@@ -170,33 +170,10 @@ $ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
 
-## ⟦ 07 ⟧ &nbsp;TROFÉUS — `achievements --unlocked`
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronnie-moreira&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" alt="GitHub Trophies"/>
-</a>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
 
-## ⟦ 08 ⟧ &nbsp;CONTRIBUIÇÕES — `snake --run`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronnie-moreira/ronnie-moreira/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronnie-moreira/ronnie-moreira/output/github-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/ronnie-moreira/ronnie-moreira/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
-
-## ⟦ 09 ⟧ &nbsp;CONEXÃO — `connect --social`
+## ⟦ 07 ⟧ &nbsp;CONEXÃO — `connect --social`
 
 <div align="center">
 
