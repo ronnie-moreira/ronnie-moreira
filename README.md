@@ -180,7 +180,7 @@ $ _
 <a href="https://github.com/ronnie-moreira">
   <img src="https://img.shields.io/badge/GitHub-ronnie--moreira-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00F0FF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/ronnie-moreira">
+<a href="https://www.linkedin.com/in/ronnie-moreira-27821a1b5">
   <img src="https://img.shields.io/badge/LinkedIn-ronnie--moreira-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=7B2CFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:ronniemendes57@gmail.com">
