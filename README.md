@@ -109,7 +109,7 @@ $ cat profile.json
 
 ## ⟦ 04 ⟧ &nbsp;PROJETOS EM DESTAQUE — `projects --featured`
 
-> 🔧 **Troque `LocadoraWeb `&& ` BarbeariaWeb`
+> 🔧 `LocadoraWeb `&& ` BarbeariaWeb`
 
 <div align="center">
 
