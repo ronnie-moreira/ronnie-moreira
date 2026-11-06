@@ -4,18 +4,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2CFF,100:FF00E5&height=260&section=header&text=RONNIE%20MOREIRA&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E2%97%89%20SYSTEM%20ONLINE%20%E2%80%A2%20ALL%20MODULES%20LOADED&descSize=16&descAlignY=58&stroke=00F0FF&strokeWidth=1" width="100%" alt="Banner Ronnie Moreira"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2F80ED,100:0047FF&height=260&section=header&text=RONNIE%20MOREIRA&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%E2%97%89%20SYSTEM%20ONLINE%20%E2%80%A2%20ALL%20MODULES%20LOADED&descSize=16&descAlignY=58&stroke=00D4FF&strokeWidth=1" width="100%" alt="Banner Ronnie Moreira"/>
 
 <a href="https://github.com/ronnie-moreira">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&height=60&lines=Booting+neural+core...;Loading+modules%3A+Java+%7C+Spring+Boot+%7C+MySQL;Connecting+to+the+future...;Hello%2C+World.+I+am+Ronnie+Moreira+%F0%9F%91%8B;Java+Developer+%E2%80%A2+Back-end+Builder+%E2%80%A2+Eternal+Learner" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=60&lines=Booting+neural+core...;Loading+modules%3A+Java+%7C+Spring+Boot+%7C+MySQL;Connecting+to+the+future...;Hello%2C+World.+I+am+Ronnie+Moreira+%F0%9F%91%8B;Java+Developer+%E2%80%A2+Back-end+Builder+%E2%80%A2+Eternal+Learner" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ronnie-moreira&color=00F0FF&style=for-the-badge&label=VISITORS&labelColor=0D1117" alt="Visitantes"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00F0FF" alt="Status"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-FF00E5?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=FF00E5" alt="Modo"/>
-<img src="https://img.shields.io/github/followers/ronnie-moreira?style=for-the-badge&color=7B2CFF&labelColor=0D1117&logo=github" alt="Seguidores"/>
+<img src="https://komarev.com/ghpvc/?username=ronnie-moreira&color=00D4FF&style=for-the-badge&label=VISITORS&labelColor=0D1117" alt="Visitantes"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00D4FF" alt="Status"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-2F80ED?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=2F80ED" alt="Modo"/>
+<img src="https://img.shields.io/github/followers/ronnie-moreira?style=for-the-badge&color=0047FF&labelColor=0D1117&logo=github" alt="Seguidores"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 01 ⟧ &nbsp;SOBRE MIM — `whoami`
 
@@ -71,7 +71,7 @@ $ cat profile.json
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 02 ⟧ &nbsp;TECH STACK — `modules --list`
 
@@ -88,7 +88,7 @@ $ cat profile.json
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 03 ⟧ &nbsp;FERRAMENTAS — `tools --installed`
 
@@ -105,7 +105,7 @@ $ cat profile.json
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 04 ⟧ &nbsp;PROJETOS EM DESTAQUE — `projects --featured`
 
@@ -114,16 +114,16 @@ $ cat profile.json
 <div align="center">
 
 <a href="https://github.com/ronnie-moreira/LocadoraWeb">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=LocadoraWeb-1&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=00F0FF&show_owner=false" alt="Locadora"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=LocadoraWeb-1&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=2F80ED&text_color=C9D1D9&border_color=00D4FF&show_owner=false" alt="Locadora"/>
 </a>
 <a href="https://github.com/ronnie-moreira/BarbeariaWeb">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=BarbeariaWeb-2&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&border_color=7B2CFF&show_owner=false" alt="Barbearia"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ronnie-moreira&repo=BarbeariaWeb-2&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=2F80ED&text_color=C9D1D9&border_color=2F80ED&show_owner=false" alt="Barbearia"/>
 </a>
 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 05 ⟧ &nbsp;OBJETIVOS ATUAIS — `cat goals.sh`
 
@@ -149,7 +149,7 @@ $ echo "Próxima missão: colocar meu sistema Spring Boot em produção."
 $ _
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 06 ⟧ &nbsp;ESTATÍSTICAS — `stats --github`
 
@@ -157,7 +157,7 @@ $ _
 
 
 <br/>
-<img src="https://streak-stats.demolab.com?user=ronnie-moreira&theme=tokyonight&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=00F0FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ronnie-moreira&theme=tokyonight&background=0D1117&ring=00D4FF&fire=2F80ED&currStreakLabel=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=00D4FF" alt="GitHub Streak"/>
 
 
 <br/><br/>
@@ -165,23 +165,23 @@ $ _
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:2F80ED,100:0047FF&height=3" width="100%" height="2" alt="divider"/>
 
 ## ⟦ 07 ⟧ &nbsp;CONEXÃO — `connect --social`
 
 <div align="center">
 
 <a href="https://github.com/ronnie-moreira">
-  <img src="https://img.shields.io/badge/GitHub-ronnie--moreira-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00F0FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ronnie--moreira-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D4FF" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ronnie-moreira-27821a1b5">
-  <img src="https://img.shields.io/badge/LinkedIn-ronnie--moreira-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=7B2CFF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ronnie--moreira-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=2F80ED" alt="LinkedIn"/>
 </a>
 <a href="mailto:ronniemendes57@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ronniemendes57-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=FF00E5" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-ronniemendes57-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=0047FF" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -197,9 +197,9 @@ $ _
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=7B2CFF&center=true&vCenter=true&width=600&lines=%22The+future+belongs+to+those+who+build+it.%22;Thanks+for+visiting.+Session+ending...+or+is+it%3F" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=2F80ED&center=true&vCenter=true&width=600&lines=%22The+future+belongs+to+those+who+build+it.%22;Thanks+for+visiting.+Session+ending...+or+is+it%3F" alt="Footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2CFF,100:00F0FF&height=150&section=footer&reversal=true&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="Rodapé"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:2F80ED,100:00D4FF&height=150&section=footer&reversal=true&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="Rodapé"/>
 
 <sub>⚡ Feito com código, café e ambição por <b>Ronnie Moreira</b> • © 2026</sub>
 
